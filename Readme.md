@@ -4,9 +4,9 @@
 Все лабораторные работы разрабатываются в виде одного мобильного приложения с постепенным наращиванием функционала под платформу выбранную студентом.
 При этом первая лабораторная работа должна быть сдана под Android, iOS, Flutter
 
-[Лабораторные работы Android](https://github.com/effectiveband/MP_labs/tree/master/Android) <br>
-[Лабораторные работы iOS](https://github.com/effectiveband/MP_labs/tree/master/iOS) <br>
-[Лабораторные работы Flutter](https://github.com/effectiveband/MP_labs/tree/master/Flutter) <br>
+[Лабораторные работы Android](./Android) <br>
+[Лабораторные работы iOS](./iOS) <br>
+[Лабораторные работы Flutter](./Flutter) <br>
 
 ## Варианты:
 1. API - MovieDB - Movie - Top rating https://developers.themoviedb.org/3/getting-started/introduction
