@@ -1,23 +1,25 @@
-# Лабораторная 1. Настройка окружения. Hello world
+# Лабораторная 1. Сверстать экран со списком элементов
 
-## Базовые требования:
+Необходимо сверстать экран на статичных данных со списком элементов.
 
-- Установить и настроить Flutter SDK, инструменты для сборки приложений под выбранную целевую платформу (iOS/Android), IDE/редактор для разработки Flutter приложения
+В реализации списка рекомендуется использовать [ListView](https://api.flutter.dev/flutter/widgets/ListView-class.html) и [ListTile](https://api.flutter.dev/flutter/material/ListTile-class.html)
 
-- Создать и запустить в режиме разработчика базовое приложение на выбранной платформе (iOS/Android)
+Базовые требования:
 
-  ![](https://flutter.dev/assets/images/docs/get-started/ios/starter-app.png)
+- Ячейка таблицы должна содержать картинку, заголовок и текст описания
+- Ячейка должна динамически изменяться по высоте относительно контента
+- Лабораторная работа должна быть залита на github
 
-## Инструкция
+Любые дополнения на ваше усмотрение
 
-Пройдите первые 3 пункта руководства по началу работы из официальной документации _Flutter_
+## Примеры результата верстки:
 
-1. [Установка окружения](https://flutter.dev/docs/get-started/install). В зависимости от вашей операционной системы и выбранной платформы
-2. [Настройка редактора](https://flutter.dev/docs/get-started/editor?tab=vscode). Рекомендуется VSCode как более легкий и простой, но выбор на ваше усмотрение
-3. [Создание и запуск приложения](https://flutter.dev/docs/get-started/test-drive?tab=vscode)
+<img src='./Images/4.png' width="300"/>
+<img src='./Images/5.png' width="300"/>
 
+<br>
 <br>
 
 ## Полезные материалы:
 
-- [видео](https://www.youtube.com/watch?v=JPY41GoH5sU&list=PLAG4C1wnIUp8zfMDk402aVgClJcxEd1wi&index=15&t=1s) по подсказкам при работе с vscodes
+- [пример создания списка](https://flutter.dev/docs/cookbook/lists/basic-list)

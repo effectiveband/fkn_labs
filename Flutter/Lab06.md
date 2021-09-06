@@ -1,23 +1,20 @@
-# Лабораторная 6. Организовать архитектуру
+# Лабораторная 6. Реализовать пуш при нажатии на который открывается экран элемента
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwCqWyykBtninwkeGUbkmCrOSl-Z_snJNhyn2mMqeZLxit0aR38XopULKshOAJws-KE8&usqp=CAU" width="300">
+Необходимо подключить сервис push уведомлений, отсылать id элемента и по тапу на пуш переходить на экран этого элемента.
 
-<br>
-<br>
+<img src="https://firebase.google.com/docs/cloud-messaging/images/diagram-FCM.png">
 
 ## Базовые требования:
 
-- Необходимо вынести повторяющиеся части интерфейса в отдельные виджеты и переиспользовать
-- Каждый виджет/экран должен находится в отдельном файле с одноименным названием
-- Для каждой сущности в данных должен быть создан свой класс, в том числе определяющий копирование, считывание из/в Map/Json
-- Необходимо выделить отдельный класс для работы с api
-- Необходимо [выбрать систему для управления данными](https://flutter.dev/docs/development/data-and-backend/state-mgmt/options) в приложении (State Management) и переписать код в соответствии с ее парадигмами. Рекомендуется взять [BLoC](https://flutter.dev/docs/development/data-and-backend/state-mgmt/options#bloc--rx).
+- Необходимо настроить отправку пушей с разными данными элемента на устройство
+- Необходимо обработать нажатие на пуш и открывать экран элемента из пуша
 - Лабораторная работа должна быть залита на github
 
 <br>
 
 ## Полезные материалы:
 
-- https://fluttersamples.com/
-- https://flutter.dev/docs/development/data-and-backend/json#serializing-json-inside-model-classes
-- https://marketplace.visualstudio.com/items?itemName=BendixMa.dart-data-class-generator
+- Для отправки пушей рекомендуется использовать Firebase, в частности
+  [Firebase Cloud Messaging API](https://firebase.google.com/docs/cloud-messaging)
+- https://pub.dev/packages/firebase_messaging
+- https://www.freecodecamp.org/news/how-to-add-push-notifications-to-flutter-app/
