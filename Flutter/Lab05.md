@@ -1,6 +1,7 @@
-# Лабораторная 6. Организовать архитектуру
+# Лабораторная 5. Организовать архитектуру
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdwCqWyykBtninwkeGUbkmCrOSl-Z_snJNhyn2mMqeZLxit0aR38XopULKshOAJws-KE8&usqp=CAU" width="300">
+<img src="https://koenig-media.raywenderlich.com/uploads/2019/06/Clean-Architecture-graph.png" width="300">
 
 <br>
 <br>
