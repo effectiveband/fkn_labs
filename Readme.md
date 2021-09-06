@@ -2,17 +2,19 @@
 Описанные ниже лабораторные в курсе Программирование мобильных устройств 4 курса ФКН ОмГУ им Ф.М. Достоевского.
 
 Все лабораторные работы разрабатываются в виде одного мобильного приложения с постепенным наращиванием функционала под платформу выбранную студентом.
+При этом первая лабораторная работа должна быть сдана под Android, iOS, Flutter
 
-Варианты:
-1. API - MovieDB - Movie - Top rating
-2. API - MovieDB - People - Popular <br>
-https://developers.themoviedb.org/3/getting-started/introduction
-3. API - Marvel - Characters
+[Лабораторные работы Android](https://github.com/effectiveband/MP_labs/tree/master/Android) <br>
+[Лабораторные работы iOS](https://github.com/effectiveband/MP_labs/tree/master/iOS) <br>
+[Лабораторные работы Flutter](https://github.com/effectiveband/MP_labs/tree/master/Flutter) <br>
+
+## Варианты:
+1. API - MovieDB - Movie - Top rating https://developers.themoviedb.org/3/getting-started/introduction
+2. API - MovieDB - People - Popular 
+3. API - Marvel - Characters https://developer.marvel.com/docs
 4. API - Marvel - Comics
 5. API - Marvel - Creators
 6. API - Marvel - Events
 7. API - Marvel - Series
-8. API - Marvel - Stories <br>
-https://developer.marvel.com/docs
-9. API - Rick and Morty - Character <br>
-https://rickandmortyapi.com/documentation/#introduction
+8. API - Marvel - Stories 
+9. API - Rick and Morty - Character https://rickandmortyapi.com/documentation/#introduction
