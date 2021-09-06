@@ -1,6 +1,8 @@
-# Лабораторная 7. Реализовать пуш, по которому откроется экран элемента
+# Лабораторная 6. Реализовать пуш при нажатии на который открывается экран элемента
 
 Необходимо подключить сервис push уведомлений, отсылать id элемента и по тапу на пуш переходить на экран этого элемента.
+
+<img src="https://firebase.google.com/docs/cloud-messaging/images/diagram-FCM.png">
 
 ## Базовые требования:
 
@@ -12,10 +14,7 @@
 
 ## Полезные материалы:
 
-- для отправки пушей рекомендуется использовать Firebase, в частности
+- Для отправки пушей рекомендуется использовать Firebase, в частности
   [Firebase Cloud Messaging API](https://firebase.google.com/docs/cloud-messaging)
-
-  <img src="https://firebase.google.com/docs/cloud-messaging/images/diagram-FCM.png">
-
 - https://pub.dev/packages/firebase_messaging
 - https://www.freecodecamp.org/news/how-to-add-push-notifications-to-flutter-app/
