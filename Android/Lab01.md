@@ -1,6 +1,6 @@
 # Лабораторная 1. Сверстать экран со списком элементов
 
-Необходимо сверстать экран на статичных данных со списком элементов.
+Необходимо сверстать экран со списком элементов геров из Marvel, в качестве данных использовать  
 
 В реализации списка рекомендуется использовать: [RecyclerView](https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/RecyclerView), [TextView](https://developer.android.com/reference/android/widget/TextView), [ImaveView](https://developer.android.com/reference/android/widget/ImageView)
 
@@ -12,9 +12,13 @@
 
 Любые дополнения на ваше усмотрение
 
-## Примеры верстки:
 
-<img src='../Flutter/Images/4.png' width="300"/><img src='../Flutter/Images/5.png' width="300"/>
+
+Верстка:
+
+<video src="../Images/marvel_main.mp4"></video>
+
+
 
 <br>
 <br>
