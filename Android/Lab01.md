@@ -8,7 +8,7 @@
 - [TextView](https://developer.android.com/reference/android/widget/TextView) компонент для отображения текста 
 - [ImaveView](https://developer.android.com/reference/android/widget/ImageView) компонент для отображения изображений
 
-## Примерный вид экрана:
+## Примерный вид приложения:
 
 <p align="center">
   <img src="../Images/marvel_main.gif" width=300></img>
