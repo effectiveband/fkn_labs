@@ -2,7 +2,7 @@
 
 Необходимо сверстать экран на статических данных со списком геров из вселенной Marvel 
 
-## В реализации экрана рекомендуется использовать: 
+## При реализации экрана рекомендуется использовать: 
 - [RecyclerView](https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/RecyclerView) или библиотеку [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) для реализации прокручиваемого списка
 - [ConstraintLayout](https://developer.android.com/reference/androidx/constraintlayout/widget/ConstraintLayout) для гибкого позиционирования компонентов
 - [TextView](https://developer.android.com/reference/android/widget/TextView) компонент для отображения текста 
@@ -24,6 +24,8 @@
 - Ячейка с информацией о герое имеет фон в виде изображения, каждая ячейка имеет уникальный фон
 - Ячейка содержит текст с именем героя из вселенной **Marvel**
 - Лабораторная работа должна быть залита на **github**
+
+<br>
 
 ## Полезные материалы:
 
