@@ -1,6 +1,6 @@
 # Лабораторная 1. Сверстать экран со списком героев
 
-Необходимо сверстать экран на статических данных со списком геров из вселенной Marvel 
+Необходимо сверстать экран на статичных данных со списком геров из вселенной Marvel 
 
 ## При реализации экрана рекомендуется использовать: 
 - [RecyclerView](https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/RecyclerView) или библиотеку [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) для реализации прокручиваемого списка
