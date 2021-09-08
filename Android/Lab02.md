@@ -1,27 +1,30 @@
-# Лабораторная 2. Экран элемента
+# Лабораторная 2. Экран с информацей о герое
 
-Необходимо по клику на элемент списка реализовать открытие экрана с подробной информацией (данные статичные)
+Продолжение [Лабораторной работы 1](./Lab01.md)
+<br>
+Необходимо по клику на элемент списка из _лабораторной работы 1_ реализовать открытие экрана с информацией о герое из вселенной **Marvel**
 
-## Базовые требования:
+## При реализации экрана рекомендуется использовать:
+- [Glide](https://github.com/bumptech/glide) для загрузки изображений
+- [TextView](https://developer.android.com/reference/android/widget/TextView) компонент для отображения текста 
+- [ImaveView](https://developer.android.com/reference/android/widget/ImageView) компонент для отображения изображений
 
-- Header экрана должен содержать картинку, заголовок, под хедером должно быть описание элемента
+## Примерный вид приложения:
 
-- При скролле Header должен уменьшаться, оставляя внутри только текст
+<p align="center">
+  <img src="../Images/marvel_hero.gif" width=300></img>
+</p>
 
-  
-
-  <video src="../Images/marvel_hero.mp4"></video>
-
-  
-
-- StatusBar должен быть светлый и у фотографии сверху должна быть небольшая тень чтобы светлая фотография не перекрывала StatusBar
-
+## Критерии приемки:
+- По нажатию на элемент из _лабораторной работы 1_ открывается экран с информацией о герое
+- Экран с информацией о герое содержит: логотип героя, имя героя, описание героя и кнопку по которой можно вернуться на предыдущий экран
+- Логотип героя должен загружаться из сети
 - Лабораторная работа должна быть залита на github
 
 <br>
 
 ## Полезные материалы:
 
-- [CollapsingToolbarLayout](https://developer.android.com/reference/com/google/android/material/appbar/CollapsingToolbarLayout)
-- [Fragments](https://developer.android.com/guide/fragments)
+- Прочитайте что такое [Fragments](https://developer.android.com/guide/fragments)
+- Изучите практики для безопасного сетевого взаимодействия Android приложения https://developer.android.com/training/basics/network-ops/connecting
 
