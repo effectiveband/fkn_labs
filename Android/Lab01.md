@@ -2,7 +2,7 @@
 
 Необходимо сверстать экран на статичных данных со списком геров из вселенной Marvel 
 
-## При реализации экрана рекомендуется использовать: 
+## При выполнении лабораторной работы рекомендуется использовать:
 - [RecyclerView](https://developer.android.com/reference/kotlin/androidx/recyclerview/widget/RecyclerView) или библиотеку [DiscreteScrollView](https://github.com/yarolegovich/DiscreteScrollView) для реализации прокручиваемого списка
 - [ConstraintLayout](https://developer.android.com/reference/androidx/constraintlayout/widget/ConstraintLayout) для гибкого позиционирования компонентов
 - [TextView](https://developer.android.com/reference/android/widget/TextView) компонент для отображения текста 
