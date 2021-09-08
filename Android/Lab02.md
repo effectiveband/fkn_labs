@@ -5,7 +5,7 @@
 <br>
 Необходимо по клику на элемент списка из _лабораторной работы 1_ реализовать открытие экрана с информацией о герое из вселенной **Marvel**
 
-## При реализации экрана рекомендуется использовать:
+## При выполнении лабораторной работы рекомендуется использовать:
 - [Glide](https://github.com/bumptech/glide) для загрузки изображений
 - [TextView](https://developer.android.com/reference/android/widget/TextView) компонент для отображения текста 
 - [ImaveView](https://developer.android.com/reference/android/widget/ImageView) компонент для отображения изображений
