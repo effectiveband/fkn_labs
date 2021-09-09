@@ -5,7 +5,7 @@
 Каждая лабораторная работа является логическим продолжением предыдущей
 
 <p align="center">
-  <img src="../Images/marvel_hero.gif" width=300></img>
+  <img src="../Images/marvel_app.gif" width=300></img>
 </p>
 
 ## Обязательная лабораторная работа для сдачи Android блока:
