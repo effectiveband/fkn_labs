@@ -26,6 +26,6 @@
 
 ## Полезные материалы:
 
-- Прочитайте что такое [Fragments](https://developer.android.com/guide/fragments)
-- Изучите практики для безопасного сетевого взаимодействия Android приложения https://developer.android.com/training/basics/network-ops/connecting
+- Рекомендуется изучить что такое [Fragments](https://developer.android.com/guide/fragments)
+- Рекомендуется изучить практики для безопасного сетевого взаимодействия Android приложения https://developer.android.com/training/basics/network-ops/connecting
 
