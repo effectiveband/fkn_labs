@@ -26,4 +26,4 @@
 
 ## Полезные материалы:
 
-- Рекомендуется пройти codelab [Работа с сетью](https://developer.android.com/codelabs/basic-android-kotlin-training-getting-data-internet#0)
+- Рекомендуется пройти codelab [Работа с сетью](https://developer.android.com/codelabs/basic-android-kotlin-training-getting-data-internet#0) для лучшего освоения материала
