@@ -1,19 +1,26 @@
-# Лабораторная 6. Реализовать пуш при нажатии на который открывается экран элемента
+# Лабораторная 6. Добавить поддержку push-уведомления
 
-Необходимо подключить сервис push уведомлений, отсылать id элемента и по тапу на пуш переходить на экран этого элемента.
+Лабораторная работа является продолжением лабораторных работ: [1,](./Lab01.md) [2,](./Lab02.md) [3,](./Lab03.md) [4,](./Lab04.md) [5](./Lab05.md)
+<br>
+<br>
+Необходимо подключить сервис **push**-уведомлений, научиться отправлять уникальный идентификатор героя из вселенной **Marvel** и по тапу на **push**-уведомление переходить на соответствующий экран с информацией о герое
 
-<img src="https://firebase.google.com/docs/cloud-messaging/images/diagram-FCM.png">
+## При выполнении лабораторной работы рекомендуется использовать:
+- [Firebase](https://firebase.google.com/) для отправки **push**-уведомлений
 
-## Базовые требования:
+<p align="center">
+   <img src="https://firebase.google.com/docs/cloud-messaging/images/diagram-FCM.png"  width="550">
+</p>
 
-- Необходимо настроить отправку пушей с разными данными элемента на устройство
-- Необходимо обработать нажатие на пуш и открывать экран элемента из пуша
-- Лабораторная работа должна быть залита на github
+## Критерии приемки:
+
+- Необходимо настроить отправку **push**-уведомления и отправлять уникальный идентификатор героя
+- Необходимо обработать нажатие на **push**-уведомление и по тапу переходить на соответствующий экран с информацией о герое
+- Лабораторная работа должна быть залита на **github**
 
 <br>
 
 ## Полезные материалы:
 
-- Для отправки пушей рекомендуется использовать Firebase, в частности
-  [Firebase Cloud Messaging API](https://firebase.google.com/docs/cloud-messaging)
-- [Advanced-android-kotlin-training-notification](https://developer.android.com/codelabs/advanced-android-kotlin-training-notifications#0)
+- Рекомендуется пройти codelab [Advanced-android-kotlin-training-notification](https://developer.android.com/codelabs/advanced-android-kotlin-training-notifications#0)
+- Рекомендуется изучить официальную документацию [Firebase Cloud Messaging API](https://firebase.google.com/docs/cloud-messaging)
