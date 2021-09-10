@@ -6,6 +6,7 @@
 Необходимо подключить сервис **push**-уведомлений, научиться отправлять уникальный идентификатор героя из вселенной **Marvel** и по тапу на **push**-уведомление переходить на соответствующий экран с информацией о герое
 
 ## При выполнении лабораторной работы рекомендуется использовать:
+
 - [Firebase](https://firebase.google.com/) для отправки **push**-уведомлений
 
 <p align="center">
@@ -24,6 +25,5 @@
 
 - Для отправки пушей рекомендуется использовать Firebase, в частности
   [Firebase Cloud Messaging API](https://firebase.google.com/docs/cloud-messaging)
-- https://pub.dev/packages/firebase_messaging
-- https://www.freecodecamp.org/news/how-to-add-push-notifications-to-flutter-app/
-- TODO добавить глаголы
+- Подключите [плагин](https://pub.dev/packages/firebase_messaging) для FCM для flutter
+- С подробностями подключения можно ознакомиться в [статье](https://www.freecodecamp.org/news/how-to-add-push-notifications-to-flutter-app/)

@@ -6,7 +6,12 @@
 Необходимо добавить локальное хранилище для списка героев из вселенной **Marvel**
 
 ## При выполнении лабораторной работы рекомендуется использовать:
-- TODO
+
+- Сохранение данных и изображений в виде файлов в памяти устройства
+
+**или**
+
+- Использовать библиотеку [Moor](https://pub.dev/packages/moor_flutter) для создания sqlite db
 
 <p align="center">
   <img src="../Images/marvel_offline.gif" width="300">
@@ -14,7 +19,7 @@
 
 ## Критерии приемки:
 
-- При успешном получении информации о героях используя **GET** запрос _/public/characters_ из [**Marvel Api**](https://developer.marvel.com/docs#!/public/getCreatorCollection_get_0) полученные данные сохраняются в локальное хранилище 
+- При успешном получении информации о героях используя **GET** запрос _/public/characters_ из [**Marvel Api**](https://developer.marvel.com/docs#!/public/getCreatorCollection_get_0) полученные данные сохраняются в локальное хранилище
 - На главном экране, разработанном в [лабораторной работе 1](./Lab01.md), в случае неуспешной загрузки информации о героях из сети данные отображаются из локального хранилища, если имеются
 - Лабораторная работа должна быть залита на **github**
 
@@ -22,6 +27,5 @@
 
 ## Полезные материалы:
 
-- https://flutter.dev/docs/cookbook/persistence/key-value
-- https://flutter.dev/docs/development/ui/interactive
-- TODO 
+- Ознакомьтесь с [записью/чтением](https://flutter.dev/docs/cookbook/persistence/reading-writing-files) из файловой системы во flutter
+- Ознакомьтесь со [статьей](https://objectbox.io/flutter-databases-sqflite-hive-objectbox-and-moor/) с обзором вариантов хранения данных во flutter
