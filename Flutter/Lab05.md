@@ -1,12 +1,12 @@
 # Лабораторная 5. Организовать архитектуру
+
 Лабораторная работа является продолжением лабораторных работ: [1,](./Lab01.md) [2,](./Lab02.md) [3,](./Lab03.md) [4](./Lab04.md)
 <br>
 <br>
 Необходимо привести имеющийся код "в порядок" и организовать архитектуру
 
-* TODO добавить картинку с архитектурой flutter 
 <p align="center">
-  <img src="../Images/flutter_arch.png" width="550">
+  <img src="https://miro.medium.com/max/831/1*Ih7zWqPcTwGkZXGoxJOH2A.png" width="550">
 </p>
 
 ## Критерии приемки:
@@ -22,7 +22,6 @@
 
 ## Полезные материалы:
 
-- https://fluttersamples.com/
-- https://flutter.dev/docs/development/data-and-backend/json#serializing-json-inside-model-classes
-- https://marketplace.visualstudio.com/items?itemName=BendixMa.dart-data-class-generator
-- TODO добавить глаголы 
+- Используйте встроенную [кодогенерацию](https://flutter.dev/docs/development/data-and-backend/json#serializing-json-inside-model-classes) или [плагин](https://marketplace.visualstudio.com/items?itemName=BendixMa.dart-data-class-generator) для сериализации данных во flutter
+- Можно использовать плагин [flutter_bloc](https://pub.dev/packages/flutter_bloc) для более удобной работой с BLoC
+- Ознакомиться с вариантами арихитектур flutter можно на сайте [fluttersamples](https://fluttersamples.com/)
