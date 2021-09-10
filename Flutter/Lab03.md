@@ -12,13 +12,13 @@
 </p>
 
 ## При выполнении лабораторной работы рекомендуется использовать:
-- [библиотека dio](https://pub.dev/packages/dio) для работы с сетью с большей функциональностью, чем стандартная библиотека _http_
-- TODO
+
+- библиотека [dio](https://pub.dev/packages/dio) для работы с сетью с большей функциональностью, чем стандартная библиотека [http](https://pub.dev/packages/http)
 
 ## Критерии приемки:
 
 - Для получения списка герое используется **GET** запрос _/public/characters_ из [**Marvel Api**](https://developer.marvel.com/docs#!/public/getCreatorCollection_get_0)
-- Для получения информации о герое испольузется **GET** запрос _characters/{characterId}_ из [**Marvel Api**](https://developer.marvel.com/docs#!/public/getCreatorCollection_get_0) 
+- Для получения информации о герое испольузется **GET** запрос _characters/{characterId}_ из [**Marvel Api**](https://developer.marvel.com/docs#!/public/getCreatorCollection_get_0)
 - Если не удается загрузить данные, то необходимо показать ошибку
 - Лабораторная работа должна быть залита на **github**
 
@@ -26,5 +26,6 @@
 
 ## Полезные материалы:
 
-- Рекомендуется изучить: [добавление работы с сетью](https://flutter.dev/docs/cookbook/networking/fetch-data) из документации
-- TODO
+- Рекомендуется изучить [добавление работы с сетью](https://flutter.dev/docs/cookbook/networking/fetch-data) из документации
+- Дополнительно можно просмотреть [видео](https://www.youtube.com/watch?v=pYDjpEHpM8o) с разбором возможностей dio
+- При необходимости - ознакомьтесь с [основами](https://www.tutorialspoint.com/http/http_quick_guide.htm) протокола http
