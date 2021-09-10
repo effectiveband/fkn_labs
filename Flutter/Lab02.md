@@ -27,5 +27,5 @@
 
 ## Полезные материалы:
 
-- Рекомендуется [изучить Hero анимации](https://flutter.dev/docs/development/ui/animations/hero-animations)
+- Рекомендуется изучить [Hero анимации](https://flutter.dev/docs/development/ui/animations/hero-animations)
 - Для лучшего понимания рекомендуется пройти соответствующий [codelab](https://flutter.dev/docs/cookbook/navigation/hero-animations)
