@@ -6,8 +6,8 @@
 - UIKit
 - Для реализации списка [UICollectionView](https://developer.apple.com/documentation/uikit/uicollectionview)
 - Для layout ячеек использовать [UICollectionViewFlowLayout](https://developer.apple.com/documentation/uikit/uicollectionviewflowlayouts) из [бибилотеки](https://github.com/akxo/paging-collection-view-layout)
-- [UIImageView](https://developer.apple.com/documentation/uikit/uiimageview) для отображения изображения 
-- [UILabel](https://developer.apple.com/documentation/uikit/uilabel) для отображения текста
+- [UIImageView](https://developer.apple.com/documentation/uikit/uiimageview) компонент для отображения изображения 
+- [UILabel](https://developer.apple.com/documentation/uikit/uilabel) компонент для отображения текста
 
 ## Примерный вид приложения:
 
