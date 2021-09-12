@@ -4,8 +4,10 @@
 
 ## При выполнении лабораторной работы рекомендуется использовать:
 - UIKit
-- Для реализации списка [UITableView](https://developer.apple.com/documentation/uikit/uitableview)
-- TODO
+- Для реализации списка [UICollectionView](https://developer.apple.com/documentation/uikit/uicollectionview)
+- Для layout ячеек использовать [UICollectionViewFlowLayout](https://developer.apple.com/documentation/uikit/uicollectionviewflowlayouts) из [бибилотеки](https://github.com/akxo/paging-collection-view-layout)
+- [UIImageView](https://developer.apple.com/documentation/uikit/uiimageview) для отображения изображения 
+- [UILabel](https://developer.apple.com/documentation/uikit/uilabel) для отображения текста
 
 ## Примерный вид приложения:
 
@@ -21,9 +23,15 @@
 - На экране имеется прокручиваемый список из ячеек с информацией о герое из вселенной **Marvel**
 - Ячейка с информацией о герое имеет фон в виде изображения, каждая ячейка имеет уникальный фон
 - Ячейка содержит текст с именем героя из вселенной **Marvel**
+- Верстка может быть на storyboard или в коде
 - Лабораторная работа должна быть залита на **github**
 
 <br>
 
 ## Полезные материалы:
-- TODO
+- Рекомендуется изучить примеры использования PagingCollectionViewLayout, устанавливать зависимость через ***cocoapods*** необязательно достаточно добавить файл <code>PagingCollectionViewLayout.swift</code> в Ваш проект
+-https://github.com/akxo/paging-collection-view-layout 
+- Рекомендуется прочитать autolayout guide  
+https://developer.apple.com/library/archive/documentation/UserExperience/Conceptual/AutolayoutPG/index.html
+- Для верстки в коде рекомендуется использовать [snapkit](http://snapkit.io/) 
+примеры и документацию можно найти [здесь](http://snapkit.io/docs/)
