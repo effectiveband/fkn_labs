@@ -22,4 +22,5 @@
 
 ## Полезные материалы:
 
-- TODO
+- Рекомендуется изучить пример настройки push notification 
+https://www.raywenderlich.com/20201639-firebase-cloud-messaging-for-ios-push-notifications
