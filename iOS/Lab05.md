@@ -6,7 +6,7 @@
 
 * TODO добавить картинку с архитектурой iOS 
 <p align="center">
-  <img src="../Images/flutter_arch.png" width="550">
+  <img src="./Images/ios_arch.png" width="550">
 </p>
 
 ## Критерии приемки:
@@ -22,7 +22,7 @@
 
 ## Полезные материалы:
 
-- https://habr.com/ru/company/badoo/blog/281162/
-- https://medium.com/@dev.omartarek/mvp-vs-mvvm-in-ios-using-swift-337884d4fc6fjson#serializing-json-inside-model-classes
-- https://www.raywenderlich.com/6587213-alamofire-5-tutorial-for-ios-getting-started
-- TODO добавить глаголы 
+- Для знакомства с MV* архитектурами рекомендуется прочитать статьи
+https://habr.com/ru/company/badoo/blog/281162/
+https://medium.com/@dev.omartarek/mvp-vs-mvvm-in-ios-using-swift-337884d4fc6fjson#serializing-json-inside-model-classes
+

@@ -6,7 +6,7 @@
 Необходимо добавить локальное хранилище для списка героев из вселенной **Marvel**
 
 ## При выполнении лабораторной работы рекомендуется использовать:
-- TODO
+- [Realm](https://realm.io/) для создание локальной базы данных
 
 <p align="center">
   <img src="../Images/marvel_offline.gif" width="300">
@@ -22,4 +22,5 @@
 
 ## Полезные материалы:
 
-- TODO
+- Рекомендуется изучить пример работы с Realm
+https://www.raywenderlich.com/9220-realm-tutorial-getting-started
